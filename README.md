@@ -1,6 +1,6 @@
 # Swift-Tac-Toe
 
-This is a single page application for iOS running on iPhone.
+This is a single page application for iOS running on iPhone. Just playing with Swift, the programming language for iOS and MacOS.
 
 ## The game
 
