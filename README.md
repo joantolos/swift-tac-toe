@@ -10,7 +10,7 @@ Tic Tac Toe classic game:
 
 ## The credits
 
-This has been made following the tutorial by XX on Youtube:
+This has been made following the tutorial by Skip Wilson on Youtube:
 
 [Tutorial](https://www.youtube.com/watch?v=LkYpoRj-7hA)
 
